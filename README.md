@@ -3,7 +3,7 @@
 </h3>
 
 
-<h3 align="center">IT Student | Aspiring Software Engineer | Full Stack & DevOps Enthusiast</h3>
+<h3 align="center">IT Student | Aspiring Software Engineer | Interested in Full Stack & DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wimansa2002&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="wimansa2002" />
